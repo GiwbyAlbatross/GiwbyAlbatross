@@ -1,7 +1,11 @@
 ## Hello, I'm Giwby Albatross
-I'm a filmmaker and (game) developer. I mostly write python, but I can work in java as well (mostly with swing GUIs). HTML/CSS/JS is not entirely foreign to me, but it's not what I mostly write.
+I'm a filmmaker and (game) developer. Mostly using Godot at the moment, good with python, okay at java and C/C++, trying to learn to use swift. 
 
-I can be contacted at giwby.albatross@gmail.com . 
+I bring the silly goose vibes that the serious geese don’t always appreciate. (Of cause I *can* be serious but I’m not normally).
+
+My religion prevents me from using generative AI. It is one of our seven or so commandments.
+
+I can be contacted at `giwby.albatross@gmail.com`. 
 
 <br><br>
 
