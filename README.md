@@ -5,7 +5,7 @@ I bring the silly goose vibes that the serious geese don’t always appreciate. 
 
 My religion prevents me from using generative AI. It is one of our seven or so commandments.
 
-I can be contacted at `giwby.albatross@gmail.com`. 
+I can be contacted at `giwby.albatross@proton.me`. 
 
 <br><br>
 
